@@ -1,0 +1,21 @@
+.wrapper {
+  width: 300px;
+  border-radius: 0.5rem;
+  padding: 0 20px;
+}
+
+.red {
+  background-color: lightcoral;
+}
+
+.blue {
+  background-color: lightblue;
+}
+
+.red .title {
+  color: red;
+}
+
+.blue .title {
+  color: blue;
+}
